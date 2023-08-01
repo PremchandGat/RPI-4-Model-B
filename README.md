@@ -44,7 +44,7 @@
 ---
 
 ### Host/Development PC specification
-I am using ubuntu virtual machine as a Host/Development machine. This vm is installed on the top of Windows 11 Lenovo ideapad Gaming 3 Pc.
+Ubuntu virtual machine is used as a Host/Development machine. This vm is installed on the top of Windows 11 Lenovo ideapad Gaming 3 Pc.
 
 #### Windows PC specifications
     • Processor	AMD Ryzen 7 4800H with Radeon Graphics            2.90 GHz
