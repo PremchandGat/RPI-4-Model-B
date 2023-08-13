@@ -9,7 +9,7 @@ Here are steps to build Linux kernel
 
 `prem@Ubuntu:~/Desktop/linux$` **make ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- bcm2711_defconfig**
 
-`prem@Ubuntu:~/Desktop/linux$` **make -j 12 ARCH=arm64 CROSS_COMPILE-aarch64-linux-gnu-**
+`prem@Ubuntu:~/Desktop/linux$` **make -j 12 ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu-**
 
 ### Copy DTB and Linux kernel Image to FAT32 partiotion of SD card
 <pre>
