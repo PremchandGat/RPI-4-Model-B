@@ -1,4 +1,4 @@
-obj-m := pcd.o
+obj-m := platform_device.o platform_driver.o
 
 target_ARCH=arm64
 target_CROSS_COMPILE=aarch64-linux-gnu-

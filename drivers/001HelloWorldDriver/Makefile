@@ -15,4 +15,4 @@ host:
 	make -C  $(host_kernel_path) M=$(PWD) modules
 
 cleanHost:
-	make -C  $(host_kernel_path) M=$(PWD) modules
+	make -C  $(host_kernel_path) M=$(PWD) clean

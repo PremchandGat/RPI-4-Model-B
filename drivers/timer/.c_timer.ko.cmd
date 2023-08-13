@@ -1,0 +1,1 @@
+cmd_/home/prem/Desktop/LinuxKernel-RPI4B/drivers/timer/c_timer.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/prem/Desktop/LinuxKernel-RPI4B/drivers/timer/c_timer.ko /home/prem/Desktop/LinuxKernel-RPI4B/drivers/timer/c_timer.o /home/prem/Desktop/LinuxKernel-RPI4B/drivers/timer/c_timer.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_/home/prem/Desktop/LinuxKernel-RPI4B/drivers/tiny_tty/tiny_tty.mod := printf '%s\n'   tiny_tty.o | awk '!x[$$0]++ { print("/home/prem/Desktop/LinuxKernel-RPI4B/drivers/tiny_tty/"$$0) }' > /home/prem/Desktop/LinuxKernel-RPI4B/drivers/tiny_tty/tiny_tty.mod

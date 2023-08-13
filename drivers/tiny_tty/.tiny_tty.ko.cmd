@@ -1,0 +1,1 @@
+cmd_/home/prem/Desktop/LinuxKernel-RPI4B/drivers/tiny_tty/tiny_tty.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/prem/Desktop/LinuxKernel-RPI4B/drivers/tiny_tty/tiny_tty.ko /home/prem/Desktop/LinuxKernel-RPI4B/drivers/tiny_tty/tiny_tty.o /home/prem/Desktop/LinuxKernel-RPI4B/drivers/tiny_tty/tiny_tty.mod.o;  true

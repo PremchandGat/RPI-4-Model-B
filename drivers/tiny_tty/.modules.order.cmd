@@ -1,0 +1,1 @@
+cmd_/home/prem/Desktop/LinuxKernel-RPI4B/drivers/tiny_tty/modules.order := {   echo /home/prem/Desktop/LinuxKernel-RPI4B/drivers/tiny_tty/tiny_tty.o; :; } > /home/prem/Desktop/LinuxKernel-RPI4B/drivers/tiny_tty/modules.order

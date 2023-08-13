@@ -1,0 +1,1 @@
+cmd_/home/prem/Desktop/LinuxKernel-RPI4B/drivers/timer/c_timer.mod := printf '%s\n'   c_timer.o | awk '!x[$$0]++ { print("/home/prem/Desktop/LinuxKernel-RPI4B/drivers/timer/"$$0) }' > /home/prem/Desktop/LinuxKernel-RPI4B/drivers/timer/c_timer.mod

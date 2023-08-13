@@ -1,4 +1,4 @@
-obj-m := pcd.o
+obj-m := pmmm.o
 
 target_ARCH=arm64
 target_CROSS_COMPILE=aarch64-linux-gnu-
