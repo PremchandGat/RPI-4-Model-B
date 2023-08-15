@@ -1,1 +1,0 @@
-cmd_/home/prem/Desktop/LinuxKernel-RPI4B/drivers/tty/premtty.mod := printf '%s\n'   premtty.o | awk '!x[$$0]++ { print("/home/prem/Desktop/LinuxKernel-RPI4B/drivers/tty/"$$0) }' > /home/prem/Desktop/LinuxKernel-RPI4B/drivers/tty/premtty.mod

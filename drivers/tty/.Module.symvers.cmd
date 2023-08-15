@@ -1,1 +1,0 @@
-cmd_/home/prem/Desktop/LinuxKernel-RPI4B/drivers/tty/Module.symvers :=  scripts/mod/modpost -m -a     -o /home/prem/Desktop/LinuxKernel-RPI4B/drivers/tty/Module.symvers -T /home/prem/Desktop/LinuxKernel-RPI4B/drivers/tty/modules.order -i Module.symvers -e 

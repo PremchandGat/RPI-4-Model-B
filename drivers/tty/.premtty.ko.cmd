@@ -1,1 +1,0 @@
-cmd_/home/prem/Desktop/LinuxKernel-RPI4B/drivers/tty/premtty.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/prem/Desktop/LinuxKernel-RPI4B/drivers/tty/premtty.ko /home/prem/Desktop/LinuxKernel-RPI4B/drivers/tty/premtty.o /home/prem/Desktop/LinuxKernel-RPI4B/drivers/tty/premtty.mod.o;  true
